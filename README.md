@@ -1,4 +1,4 @@
-####### hello 👋
+###### hello 👋
 
 **i'm a highschool student who is interested in programming and FOSS 💻**
 
