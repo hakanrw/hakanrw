@@ -5,7 +5,7 @@ i'm a senior year highschool student who is interested in programming and FOSS ð
 
 
 #### my current projects
-- [flint]((http://github.com/hcandar/flint), social platforming application
+- [flint](http://github.com/hcandar/flint), social platforming application
 
 #### notable old projects
 - [enka360](http://github.com/hcandar/enka360), a website for my school club 
