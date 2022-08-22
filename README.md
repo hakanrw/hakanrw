@@ -6,6 +6,7 @@ i'm a highschool graduate who is interested in programming and FOSS 💻
 
 #### my current projects
 - [flint](http://github.com/hcandar/flint), social platforming application
+- [flint-flutter](http://github.com/hcandar/flint-flutter), miniblogging app rewritten in flutter 
 
 #### notable old projects
 - [enka360](http://github.com/hcandar/enka360), a website for my school club 
