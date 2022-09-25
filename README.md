@@ -1,6 +1,6 @@
 ### hello 👋
 
-i'm a highschool graduate who is interested in programming and FOSS 💻
+i'm a computer science student who is interested in programming and FOSS 💻
 
 
 
