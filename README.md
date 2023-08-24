@@ -5,14 +5,16 @@ i'm a computer science student who is interested in programming and FOSS 💻
 
 
 #### my current projects
-- [flint](http://github.com/hcandar/flint), social platforming application
-- [flint-flutter](http://github.com/hcandar/flint-flutter), miniblogging app rewritten in flutter 
+- [flamingo]((http://github.com/hakanrw/flint), share ideas and opinions with tags
+- [flint](http://github.com/hakanrw/flint), social platforming application
+- [qrbook]((http://github.com/hakanrw/qrbook), create pages and share them with qr
 
 #### notable old projects
-- [enka360](http://github.com/hcandar/enka360), a website for my school club 
+- [flint-flutter](http://github.com/hakanrw/flint-flutter), miniblogging app rewritten in flutter 
+- [enka360](http://github.com/hakanrw/enka360), a website for my school club 
 - [aci sozluk](http://acisozluk.tk), ekşi sözlük clone 
-- [shortenxpress](http://github.com/hcandar/shortenxpress), url shortener application
-- [fireware](http://github.com/hcandar/fireware), a top down shooter game 🔫
+- [shortenxpress](http://github.com/hakanrw/shortenxpress), url shortener application
+- [fireware](http://github.com/hakanrw/fireware), a top down shooter game 🔫
 
 #### about me
 - i'm very interested in unix and unix-like systems, especially linux 🐧
