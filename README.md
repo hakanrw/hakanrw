@@ -10,11 +10,11 @@ i'm a computer science student who is interested in programming and FOSS 💻
 - [qrbook](http://github.com/hakanrw/qrbook), create pages and share them with qr
 
 #### notable old projects
+- [fireware](http://github.com/hakanrw/fireware), a top down multiplayer shooter game 🔫
+- [enka360](http://github.com/hakanrw/enka360), a website for my school club
 - [flint-flutter](http://github.com/hakanrw/flint-flutter), miniblogging app rewritten in flutter 
-- [enka360](http://github.com/hakanrw/enka360), a website for my school club 
 - [aci sozluk](http://acisozluk.tk), ekşi sözlük clone 
 - [shortenxpress](http://github.com/hakanrw/shortenxpress), url shortener application
-- [fireware](http://github.com/hakanrw/fireware), a top down shooter game 🔫
 
 #### about me
 - i'm very interested in unix and unix-like systems, especially linux 🐧
