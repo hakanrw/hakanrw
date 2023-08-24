@@ -5,9 +5,9 @@ i'm a computer science student who is interested in programming and FOSS 💻
 
 
 #### my current projects
-- [flamingo]((http://github.com/hakanrw/flint), share ideas and opinions with tags
+- [flamingo](http://github.com/hakanrw/flint), share ideas and opinions with tags
 - [flint](http://github.com/hakanrw/flint), social platforming application
-- [qrbook]((http://github.com/hakanrw/qrbook), create pages and share them with qr
+- [qrbook](http://github.com/hakanrw/qrbook), create pages and share them with qr
 
 #### notable old projects
 - [flint-flutter](http://github.com/hakanrw/flint-flutter), miniblogging app rewritten in flutter 
