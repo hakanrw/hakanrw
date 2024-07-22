@@ -19,6 +19,6 @@ i'm a computer science student who is interested in programming and FOSS 💻
 #### about me
 - i'm very interested in unix and unix-like systems, especially linux 🐧
 - my favorite scripting language is javascript 📜
-- i like coding in `.js`, `.py`, `.rs`, `.kt`, `.java`, `.cs`, `.c` and `.sh`
-- my current shell of choice is **bash** 🐚
+- i like coding in `.c`, `.js`, `.py`, `.cs`, `.java`, `.rs`, `.kt` and `.sh`
+- my current shell of choice is **fish** 🐟
 - i like open source software 👨‍💻
