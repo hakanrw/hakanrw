@@ -1,8 +1,8 @@
 ### hello 👋
 
-i'm a computer science student who is interested in programming and FOSS 💻
+i'm a computer science student who is interested in programming and free software.
 
-
+i support the freedom to run, copy, distribute, study, change and improve.
 
 #### my current projects
 - [flamingo](http://github.com/hakanrw/flamingo), share ideas and opinions with tags
@@ -21,4 +21,4 @@ i'm a computer science student who is interested in programming and FOSS 💻
 - my favorite scripting language is javascript 📜
 - i like coding in `.c`, `.js`, `.py`, `.cs`, `.java`, `.rs`, `.kt` and `.sh`
 - my current shell of choice is **fish** 🐟
-- i like open source software 👨‍💻
+- i like free software 👨‍💻
